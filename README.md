@@ -6,6 +6,8 @@ Explore conservation project data using AI assistants like Google Gemini.
 
 1. Open the notebook in Google Colab:
 
+   **https://tinyurl.com/miradi-workshop**
+
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fosonline/miradi-data-exploration/blob/main/workshop_colab_template.ipynb)
 
    Or scan:
