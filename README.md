@@ -8,6 +8,10 @@ Explore conservation project data using AI assistants like Google Gemini.
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fosonline/miradi-data-exploration/blob/main/workshop_colab_template.ipynb)
 
+   Or scan:
+
+   <img src="colab-qr-code.png" alt="QR Code for Colab notebook" width="200">
+
 2. Enable Gemini in Colab (if available) or use your preferred AI assistant
 
 3. Run the first few cells to load the data
