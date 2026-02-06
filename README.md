@@ -1,6 +1,6 @@
-# Miradi Data Exploration Workshop
+# Talk to Your Data: AI-Powered Conservation Analysis
 
-Explore conservation project data using AI assistants like Google Gemini.
+A hands-on workshop using AI to explore and visualize conservation data. No programming experience required.
 
 ## Quick Start
 
@@ -14,27 +14,28 @@ Explore conservation project data using AI assistants like Google Gemini.
 
    <img src="assets/colab-qr-code.png" alt="QR Code for Colab notebook" width="200">
 
-2. Enable Gemini in Colab (if available) or use your preferred AI assistant
+2. Click **"Copy to Drive"** (you need a Google account)
 
 3. Run the first few cells to load the data
 
-4. Start asking questions in natural language!
+4. Use the Gemini sidebar to ask questions in plain English!
 
 ## What's Included
 
 | File | Description |
 |------|-------------|
-| `workshop_colab_template.ipynb` | Interactive notebook with guided exploration |
+| `workshop_colab_template.ipynb` | Interactive notebook with guided exercises |
+| `workshop_slides.md` | Marp presentation slides for the workshop |
 | `sample_project.sqlite` | Sample conservation project data (Eastern Bay Project) |
+| `assets/` | Images for slides and notebook |
 
-## Example Prompts
+## Workshop Exercises
 
-Try asking the AI:
-
-- "Create a bar chart showing the viability status of all biodiversity targets"
-- "Show me measurement trends over time for coral indicators"
-- "Which strategies address the most threats?"
-- "Create a network diagram showing threat-target relationships"
+1. **Visualize Target Status** - Bar charts of biodiversity target health
+2. **Network Diagrams** - Map relationships between threats, targets, and strategies
+3. **Time Series** - Plot monitoring data trends over time
+4. **Maps** - Show project locations with interactive maps
+5. **Your Questions** - Explore the data with your own prompts
 
 ## About the Data
 
