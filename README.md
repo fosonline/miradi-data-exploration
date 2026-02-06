@@ -12,7 +12,7 @@ Explore conservation project data using AI assistants like Google Gemini.
 
    Or scan:
 
-   <img src="colab-qr-code.png" alt="QR Code for Colab notebook" width="200">
+   <img src="assets/colab-qr-code.png" alt="QR Code for Colab notebook" width="200">
 
 2. Enable Gemini in Colab (if available) or use your preferred AI assistant
 
