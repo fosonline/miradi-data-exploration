@@ -7,6 +7,7 @@ paginate: true
 ## AI-Powered Conservation Analysis
 
 ICTC 2026
+*Brian Knowles - Miradi Tech Lead*
 
 <!--
 Welcome slide. Introduce yourself.
@@ -61,12 +62,9 @@ Mention that teams help - you can compare approaches and share discoveries.
 
 ## The Data: Miradi & the Conservation Standards
 
-<!-- TODO: Replace with your own conceptual diagram -->
+![Conceptual Diagram](assets/conceptual-diagram.png)
 
-1. **Assess** -- Identify biodiversity targets, threats, contributing factors in a situation analysis
-2. **Plan** -- Define goals, strategies, objectives, activities
-3. **Implement** -- Track work plans, resources, expenses
-4. **Analyze & Adapt** -- Monitor indicators, measure progress, learn & adjust
+![Applied Diagram](assets/applied-diagram.png)
 
 The sample data captures **all of these** as structured tables.
 
@@ -80,15 +78,17 @@ If you have a custom diagram, insert it here.
 
 ## Sample Project at a Glance
 
-| What | Count |
-|------|-------|
-| Biodiversity Targets | 7 (Coral reefs, Sharks, Seagrass, Mangroves, Seabirds) |
-| Direct Threats | 9 |
-| Strategies | 19 |
+| Situation Analysis | Count | | Results Chains | Count |
+|---|---|---|---|---|
+| Biodiversity Targets | 7 | | Strategies | 19 |
+| Direct Threats | 9 | | Intermediate Results | 19 |
+
+| Monitoring | Count |
+|---|---|
+| Goals | 7 |
+| Objectives | 9 |
 | Indicators | 77 |
 | Measurements | 301 (spanning 2012-2025) |
-
-Plus: goals, activities, results chains, funding sources, and more.
 
 **38 tables total** from a real Miradi Share project export.
 
@@ -229,7 +229,7 @@ Time series is very natural for conservation data.
 
 ## Exercise 4: Maps
 
-The project has location data (latitude, longitude).
+The project, targets, and threats all have location data.
 
 > "Show the project location on a map"
 
